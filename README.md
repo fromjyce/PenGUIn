@@ -46,7 +46,7 @@ All scripts and documentation in this repository are licensed under the MIT Lice
 
 ## Social Profiles
 
-[**LINKEDIN - Adithya**]() \
+[**LINKEDIN - Adithya**](https://www.linkedin.com/in/adithya-azhagiri) \
 [**LINKEDIN - Deepthi I**](https://in.linkedin.com/in/deepthi-ilangovan-1169ab242) \
 [**LINKEDIN - Saadhvi Sree**](https://in.linkedin.com/in/saadhvisree) \
 [**LINKEDIN - Jayashre**](https://www.linkedin.com/in/jayashrek/) \
