@@ -1,5 +1,4 @@
 # PenGUIn - GUI-Based OS Hardening Script
-
 Welcome to PenGUIn, a flexible GUI-based hardening script designed for Ubuntu to align with organizational security policies. PenGUIn simplifies the process of OS hardening with a user-friendly Linux application that provides essential, advanced, and additional security tweaks, making it easier for users to ensure their systems comply with security requirements.
 
 ## Overview
